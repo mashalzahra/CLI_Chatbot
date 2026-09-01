@@ -1,0 +1,8 @@
+google-genai
+tiktoken
+python-dotenv
+
+pip install google-genai tiktoken python-dotenv
+
+
+
